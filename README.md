@@ -5,7 +5,7 @@
 
 - 📝 Eu tenho artigos publicados em economia utilizando dados [https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-02174da62c3656a9e779cacf1cea34db.pdf e https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-00786895c8741d1da9233d24174f0c2d.pdf]
 
-- 💬 Me pergunte sobre **R, Satat, Power BI, Excel**
+- 💬 Me pergunte sobre **R, Stata, Power BI, Excel**
 
 - 📫 Email: **marcio.frota10@hotmail.com e marcio.frota25@gmail.com**
 
