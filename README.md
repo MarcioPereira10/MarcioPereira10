@@ -11,6 +11,9 @@
 
 - 📄 Muitos anos de experiência com pesquisa, sempre utilizando dados [https://www.linkedin.com/in/m%C3%A1rcio-pereira-2635915b/](https://www.linkedin.com/in/m%C3%A1rcio-pereira-2635915b/)
 
+	/github/pipenv/locked/python-version/:user/:repo
+![68747470733a2f2f692e696d6775722e636f6d2f386771626278662e706e67](https://user-images.githubusercontent.com/110730862/227381253-1f2748c2-58d4-433d-8a7e-d5439966582f.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/m%c3%a1rcio-pereira-2635915b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m%c3%a1rcio-pereira-2635915b/" height="30" width="40" /></a>
