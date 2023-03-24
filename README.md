@@ -3,16 +3,21 @@
 
 - 🌱Atualmente estou aprendendo **SQL, Python e Machine Learning**
 
-- 📝 Eu tenho artigos publicados em economia utilizando dados [https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-02174da62c3656a9e779cacf1cea34db.pdf e https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-00786895c8741d1da9233d24174f0c2d.pdf]
+- 📝 Tenho dois artigos publicados em economia que utilizam dados o [1º utiliza técnica de machine learning com causalidade](https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-02174da62c3656a9e779cacf1cea34db.pdf) e o 2º [técnicas de causalidade](https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-00786895c8741d1da9233d24174f0c2d.pdf)
 
-- 💬 Me pergunte sobre **R, Stata, Power BI, Excel**
+- 💬 Me pergunte sobre **R, Python, Stata, Power BI, Excel**
 
 - 📫 Email: **marcio.frota10@hotmail.com e marcio.frota25@gmail.com**
 
-- 📄 Muitos anos de experiência com pesquisa, sempre utilizando dados [https://www.linkedin.com/in/m%C3%A1rcio-pereira-2635915b/](https://www.linkedin.com/in/m%C3%A1rcio-pereira-2635915b/)
+- 📄 Mais de 11 anos de experiência trantando, limpando e retirando insights de dados.
 
-	/github/pipenv/locked/python-version/:user/:repo
+<hr style="border-top: 0.5px solid black;">
+
+- <h3> Projetos: </h3> 
+- [League-of-Legends](https://github.com/MarcioPereira10/League-of-Legends): Este projeto de Machine Learning, definido como um projeto end-to-end, teve como objetivo ir desde a recolha de dados do jogo até à construção de um modelo de machine learning, para prever as hipóteses da equipe que joga no lado azul, do lado do mapa que ganhe. Execução de etapas como: Pré-processamento e análise dos dados, redução da dimensionalidade e seleção das variáveis, construção de um modelo completo com XGBClassifier e construção de um modelo de Análise Discriminante Linear  a partir dos resultados obtidos do AutoML com Pycaret.
+
 ![68747470733a2f2f692e696d6775722e636f6d2f386771626278662e706e67](https://user-images.githubusercontent.com/110730862/227381253-1f2748c2-58d4-433d-8a7e-d5439966582f.png)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
