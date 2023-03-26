@@ -3,7 +3,7 @@
 
 - 🌱Atualmente estou aprendendo **SQL, Python e Machine Learning**
 
-- 📝 Tenho artigos publicados em economia que utilizam dados o [1º utiliza técnica de machine learning com causalidade](https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-02174da62c3656a9e779cacf1cea34db.pdf) e o 2º [técnicas de causalidade](https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-00786895c8741d1da9233d24174f0c2d.pdf) 2 o 3º [técnicas de séries temporais] 
+- 📝 Tenho artigos publicados em economia que utilizam dados o [1º utiliza técnica de machine learning com causalidade](https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-02174da62c3656a9e779cacf1cea34db.pdf) e o 2º [técnicas de causalidade](https://www.anpec.org.br/encontro/2022/submissao/files_I/i12-00786895c8741d1da9233d24174f0c2d.pdf) e o 3º [técnicas de séries temporais](https://github.com/MarcioPereira10/S-ries-Temporais/files/11071626/003c.pdf)
 
 - 💬 Me pergunte sobre **R, Python, Stata, Power BI, Excel**
 
